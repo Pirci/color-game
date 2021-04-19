@@ -1,3 +1,7 @@
-# color_game
- 
-https://github.com/Pirci/color_game.git
+# Color Guessing Game
+
+Udemy the Web Developer Bootcamp project. 
+
+Please click on the link below to view it.
+
+https://pirci.github.io/color_game/
