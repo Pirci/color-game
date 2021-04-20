@@ -1,7 +1,7 @@
 # Color Guessing Game
 
 Udemy the Web Developer Bootcamp project.
-Fully responsive mobile first approach.
+
 
 Please click on the link below to view it.
 
