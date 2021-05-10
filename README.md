@@ -1,10 +1,32 @@
 # Color Guessing Game
 
-Udemy the Web Developer Bootcamp project.
+### Udemy the Web Developer Bootcamp project.
+
+> Color guessing game created using javascript. There are 2 different game modes, easy and hard. When the rgb code is selected correctly from the color boxes given, it paints the whole boxes in the specified color. The wrong predicted box disappears from the screen.
 
 
-Please click on the link below to view it.
+From [The Web Developer Bootcamp 2021]https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview
 
-https://pirci.github.io/color-game/
+
+## What I Learned:
+
+- While creating the application -webkit- & -moz- syntaxes was used
+- Applied and understanding JavaScript's "Conditional" Statements
+- Improved prediction of alloys to rgb color codes (red, green, blue)
+- The EventTarget method implemented
+- Multiple types of CSS selectors
+
+
+
+## Possible Improvements
+
+- More code reviews can be added for teamwork
+- Could make the page layout more pleasing to the eye
+- Formatting could be improved when viewing on certain devices/browsers
+
+
+## Live Demo
+
+Preview: https://pirci.github.io/color-game/
 
 ![main_screen](https://user-images.githubusercontent.com/43238947/115290222-963efd00-a153-11eb-9fa6-99828b8df43a.png)
