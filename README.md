@@ -5,7 +5,7 @@
 > Color guessing game created using javascript. There are 2 different game modes, easy and hard. When the rgb code is selected correctly from the color boxes given, it paints the whole boxes in the specified color. The wrong predicted box disappears from the screen.
 
 
-From [The Web Developer Bootcamp 2021]https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview
+From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
 
 ## What I Learned:
@@ -27,6 +27,8 @@ From [The Web Developer Bootcamp 2021]https://www.udemy.com/course/the-web-devel
 
 ## Live Demo
 
-Preview: https://pirci.github.io/color-game/
+Preview:  https://pirci.github.io/color-game/
+
+
 
 ![main_screen](https://user-images.githubusercontent.com/43238947/115290222-963efd00-a153-11eb-9fa6-99828b8df43a.png)
