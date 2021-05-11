@@ -7,6 +7,13 @@
 
 From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
 
+## Live Demo
+
+Preview:  https://pirci.github.io/color-game/
+
+
+![Alt Text](https://media.giphy.com/media/ReWd33FK0ZM3e6PX86/giphy.gif)
+
 
 ## What I Learned:
 
@@ -25,10 +32,4 @@ From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-deve
 - Formatting could be improved when viewing on certain devices/browsers
 
 
-## Live Demo
 
-Preview:  https://pirci.github.io/color-game/
-
-
-
-![main_screen](https://user-images.githubusercontent.com/43238947/115290222-963efd00-a153-11eb-9fa6-99828b8df43a.png)
