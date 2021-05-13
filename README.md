@@ -12,7 +12,7 @@ From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-deve
 Preview:  https://pirci.github.io/color-game/
 
 
-![color-game](https://media.giphy.com/media/ReWd33FK0ZM3e6PX86/giphy.gif)
+![color-game](demo.gif)
 
 
 ## What I Learned:
