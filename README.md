@@ -1,4 +1,4 @@
-# Color Guessing Game
+# Color Game Web App
 
 ### Udemy the Web Developer Bootcamp project.
 
