@@ -17,7 +17,6 @@ Preview:  https://pirci.github.io/color-game/
 
 ## What I Learned:
 
-- While creating the application -webkit- & -moz- syntaxes was used
 - Applied and understanding JavaScript's "Conditional" Statements
 - Improved prediction of alloys to rgb color codes (red, green, blue)
 - The EventTarget method implemented
