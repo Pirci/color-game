@@ -1,14 +1,6 @@
 # Color Game Web App
 
-### Udemy the Web Developer Bootcamp project.
-
-> Color guessing game created using javascript. There are 2 different game modes, easy and hard. When the rgb code is selected correctly from the color boxes given, it paints the whole boxes in the specified color. The wrong predicted box disappears from the screen. It can be restarted with the "Try Again" button. 
-
-
-From [The Web Developer Bootcamp 2021](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22587506?start=15#overview) Udemy
-
-
-> It was one of a "code along" assignments included in the video bootcamp.
+> Color guessing game created using javascript. There are 2 different game modes, easy and hard. When the rgb code is selected correctly from the color boxes given, it paints the whole boxes in the specified color. The wrong predicted box disappears from the screen. It can be restarted with the "Try Again" button.
 
 ## Live Demo
 
